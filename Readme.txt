@@ -7,5 +7,5 @@ username = admin
 password = admin
 
 Login Details for donor(user)
-username = sagar
-password = sagar
+username = mohit  
+password = mohit
